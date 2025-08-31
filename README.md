@@ -10,10 +10,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Hadassa Carvalho
+- Matricula: 1593566
+- Proposta de projeto escolhida: Artistas e álbuns
+- Breve descrição sobre seu projeto: Informações sobre os maiores nomes do gênero, seus lançamentos, álbuns e eventos em tempo real
 
 
 ## Print do(s) wireframe(s) criado
